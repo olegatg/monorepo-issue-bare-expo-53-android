@@ -4677,7 +4677,7 @@ expo-web-browser@~14.1.6:
   resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-14.1.6.tgz#26d66e641e6e96d155be6fa513e7e667a719a0b0"
   integrity sha512-/4P8eWqRyfXIMZna3acg320LXNA+P2cwyEVbjDX8vHnWU+UnOtyRKWy3XaAIyMPQ9hVjBNUQTh4MPvtnPRzakw==
 
-expo@~53.0.11:
+expo@~53.0.0, expo@~53.0.11:
   version "53.0.11"
   resolved "https://registry.yarnpkg.com/expo/-/expo-53.0.11.tgz#66053862520ce2a6700d13346ebaf8210a68f24b"
   integrity sha512-+QtvU+6VPd7/o4vmtwuRE/Li2rAiJtD25I6BOnoQSxphaWWaD0PdRQnIV3VQ0HESuJYRuKJ3DkAHNJ3jI6xwzA==

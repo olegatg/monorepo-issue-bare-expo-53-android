@@ -1,0 +1,8 @@
+{
+  "name": "cool-package2",
+  "packageManager": "yarn@4.9.1",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "18.3.0"
+  }
+}
